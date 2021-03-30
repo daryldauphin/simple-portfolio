@@ -1,0 +1,57 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+.navbar-dark {
+    
+    background-color:teal !important;
+}    
+
+.jumbotron {
+    background-image: url(img/background.jpg);
+    border-radius: 0 !important;
+    margin-bottom: 0;
+}
+h1 {
+    color: white;
+    padding-top: 50px ;
+}
+
+.text-muted {
+    color: grey !important;
+}
+
+.img {
+    display: block;
+    padding-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+small {
+    color: grey;
+}
+
+.profile {
+    padding-left: 40%;
+    
+}
+
+.badge {
+    background-color:green !important;
+
+}
+
+.skills {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 15px;
+    
+}
+
+.video {
+    padding: 15px;
+    text-align: center important !important;
+    left: 555px !important;
+}
